@@ -1,0 +1,48 @@
+/* .first-div {
+    color: rgb(250, 253, 251);
+}
+.second-div {
+    color: rgb(10, 10, 11);
+}
+#pilks {
+    background-color: lightslategrey;
+}
+#pilks2 {
+    background-color: lightslategrey;
+}
+#mėlyns {
+    background-color: rgb(25, 124, 224);
+}
+    #raudons {
+     background-color: rgb(234, 11, 37);
+    }
+#pilks {
+    background-color: lightslategrey;
+}
+#pilks 
+    background-color: lightslategrey;
+} */
+
+.tevinis {
+    padding: 5px;
+    background-color: blue;
+    font-style: italic;
+    font-size: large;
+    font-weight: 300;
+}
+.vaikinis {
+    padding: 5px;
+    background-color: indianred;
+    font-style: normal;
+    font-size: medium;
+}
+.vaikinio_vaikinis {
+    padding: 5px;
+    background-color: bisque;
+    font-size: normal;
+}
+.mama {
+    padding: 10px;
+    background-color: springgreen;
+    font-style: italic;
+}
